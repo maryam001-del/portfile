@@ -334,7 +334,7 @@ nav ul :last-child,
 }
 .section2 .section-div2 div:hover {
   background-color:red;
-  transform:translateY(-90px);
+  transform:translateY(-10px);
   transition: 1.5s ease-in-out;
 }
 
